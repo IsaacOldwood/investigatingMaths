@@ -7,6 +7,6 @@ etc etc.
 
 Explore this sequence and its underlaying properties. Find a general rule for point n.
 
-       n| 1 | 2
+       n| 1 | 2 | 3
         ==================================
-Segments| 1 | 2
+Segments| 1 | 2 | 3

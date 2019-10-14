@@ -1,0 +1,8 @@
+This problem was presented to me by my grandad.
+
+Suppose you have a circle with 1 point on it, the area of the circle has a unit.
+Suppose there is two points on the circle then connect the points, there is two units.
+3 connected points leads to 4 areas
+etc etc.
+
+Explore this sequence and its underlaying properties. Find a general rule for point n.
